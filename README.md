@@ -1,13 +1,13 @@
 # PutraSploit
-PutraSploit Untuk Peretas Windows, jadikan os windows anda seperti peretas elite
+PutraSploit Untuk Peretas Windows🖥️, jadikan os windows anda seperti peretas elite
 tool ini berfungsi untuk versi win 7/8 ke atas, tool Safety 100% meskipun virustotal.com mendeteksi nya sebagai virus:(
 matikan antivirus pihak ketiga supaya bisa berjalan normal!
 
-<h1>Tampilan Utama</h1>
+<h1>📸Tampilan Utama</h1>
 <p>
  <img src="putrasploit.PNG">
 </p>
-<h1>module framework</h1>
+<h1>🦅module framework</h1>
 <p>
 CMD network and system
 -----------------------
@@ -33,7 +33,8 @@ CMD attackers and social engineering
 [winsvir] (make virus BAT for windows and use any technique)
 [brutewn] (this stage is brute force windows pin password)
 </p>
-<h1>Temukan Dan Retas Kerentanan Pada ARP/SUBNET</h1>
+<h1>💰Temukan Dan Retas Kerentanan Pada ARP/SUBNET</h1>
 <p>
  <img src="snif4.PNG">
 </p>
+<h2></h2>
